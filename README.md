@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 8+ years of experience in **Software Testing & Test Automation**
+- 💼 9+ years of experience in **Software Testing & Test Automation**
 - 🧪 Worked across **Web, Mobile & API Automation**
 - ⚙️ Strong believer in **clean test architecture & best practices**
 - 🤝 Enjoy knowledge-sharing, collaboration & mentoring
@@ -91,7 +91,7 @@
 ## 🤝 Let’s Connect
 
 💼 LinkedIn: www.linkedin.com/in/shiv-jirwankar-45246577  
-📧 Email: *(add if you'd like)*  
+📧 Email: shivjirwankar@gmail.com 
 
 🌟 Always happy to connect with:
 ✔ Automation Engineers  
