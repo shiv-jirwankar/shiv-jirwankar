@@ -64,8 +64,6 @@
 
 ## 🌟 Featured Work & Learning Projects
 
-🔹 (Pin your best repos — example text below)
-
 - 🧪 **Playwright Automation Framework**
   Scalable UI + API automation using Playwright & TypeScript
 
