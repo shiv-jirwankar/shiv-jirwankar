@@ -15,12 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 9+ years of experience in **Software Testing & Test Automation**
-- 🧪 Worked across **Web, Mobile & API Automation**
-- ⚙️ Strong believer in **clean test architecture & best practices**
-- 🤝 Enjoy knowledge-sharing, collaboration & mentoring
+- 💼 8+ years of experience in **Software Testing & Test Automation**
+- 🧪 Hands-on across **Web, Mobile & API Automation**
+- ⚙️ Advocate of **clean test architecture & best practices**
+- 🤝 Love knowledge-sharing, collaboration & mentoring
 - 🌱 Currently deep-diving into **Playwright + CI/CD + Cloud automation**
-- 🏏 Big fan of Tottenham Hotspur & cricket (we win sometimes 😄)
+- 🏏 Tottenham Hotspur & cricket fan (faith is everything 😄)
 - 👨‍👩‍👧 Proud dad 💖
 
 ---
@@ -52,28 +52,44 @@
 
 ---
 
+## ✍ Test Automation Blogger on Medium
+
+<p align="left">
+  <a href="https://medium.com/@shiv-jirwankar">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20Medium-000000?logo=medium&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+I regularly write about:
+
+✔ Playwright & modern automation  
+✔ Test architecture & framework design  
+✔ Best practices for scalable QA  
+✔ Real-world testing challenges  
+
+👉 **Read my blogs here:**  
+🔗 https://medium.com/@shiv-jirwankar
+
+---
+
 ## 🚀 What I Love Working On
 
-✔ Designing **scalable automation frameworks**  
-✔ Improving **test reliability & speed**  
-✔ Implementing **Shift-Left testing culture**  
-✔ Collaborating in **Agile & DevOps environments**  
-✔ Mentoring and helping teams grow  
+✔ Scalable automation frameworks  
+✔ Reliable, maintainable test design  
+✔ Shift-left testing culture  
+✔ CI/CD & Quality Engineering  
+✔ Mentoring teams & sharing knowledge  
 
 ---
 
 ## 🌟 Featured Work & Learning Projects
 
+> 📌 Check my pinned repositories below 👇
+
+Examples:
 - 🧪 **Playwright Automation Framework**
-  Scalable UI + API automation using Playwright & TypeScript
-
-- 📱 **Mobile Automation with Appium**
-  Real-device testing samples
-
-- 🔗 **API Automation Collection**
-  Real-world request flows & validation
-
-> 📌 *Check my pinned repositories below ↓*
+- 📱 **Mobile Testing with Appium**
+- 🔗 **API Automation Suite**
 
 ---
 
@@ -86,15 +102,16 @@
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/shiv-jirwankar-45246577  
-📧 Email: shivjirwankar@gmail.com 
+📝 Medium: www.medium.com/@shiv-jirwankar  
+📧 Email: *(add here if you want)*  
 
-🌟 Always happy to connect with:
+I’m always happy to connect with:
 ✔ Automation Engineers  
 ✔ SDETs  
-✔ DevOps & QA Leaders  
+✔ QA & Dev Leaders  
 ✔ Recruiters exploring strong QA talent  
 
 ---
