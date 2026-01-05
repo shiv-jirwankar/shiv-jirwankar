@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 8+ years of experience in **Software Testing & Test Automation**
+- 💼 9+ years of experience in **Software Testing & Test Automation**
 - 🧪 Hands-on across **Web, Mobile & API Automation**
 - ⚙️ Advocate of **clean test architecture & best practices**
 - 🤝 Love knowledge-sharing, collaboration & mentoring
